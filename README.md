@@ -2,7 +2,7 @@
 
 **Tools:** SQL, Google BigQuery, Looker Studio, Python (validasi)
 **Hasil kerja:** query SQL, dashboard interaktif Looker Studio, laporan analis, slide deck rekomendasi
-**Link dashboard:** (tambahkan link Looker Studio)
+**Link dashboard:** https://mufa290300.github.io/Dasboard_SuryaHub/
 **Penulis:** Muhamad Fahrudin
 
 ## Ringkasan
