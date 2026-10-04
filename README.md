@@ -9,7 +9,7 @@
 ![Dashboard](https://img.shields.io/badge/Dashboard-HTML%20interaktif-E9B44C?style=flat-square)
 ![Studi Kasus](https://img.shields.io/badge/Studi%20Kasus-Harisenin%20Bootcamp-1F3A5F?style=flat-square)
 
-[📊 Lihat Dashboard](https://USERNAME.github.io/NAMA-REPO/Dashboard_SuryaHub.html) · [📄 Laporan Analis](docs/Laporan_Analis_SuryaHub.pdf) · [🎞️ Slide Deck](docs/Slide_Deck_SuryaHub.pptx) · [🧾 Query SQL](sql/queries_suryahub.sql)
+[📊 Lihat Dashboard](https://mmufaah.github.io/Dasboard_SuryaHub/) · [📄 Laporan Analis](Laporan_Analis_SuryaHub.pdf) · [🎞️ Slide Deck](Slide_Deck_SuryaHub.pptx) · [🧾 Query SQL](queries_suryahub.sql)
 
 </div>
 
@@ -231,9 +231,9 @@ Hasil SQL divalidasi ulang dengan Python (pandas dan scipy) melalui [`uji_statis
 
 | Hasil kerja | Isi |
 |---|---|
-| [Dashboard interaktif](https://USERNAME.github.io/NAMA-REPO/Dashboard_SuryaHub.html) | Filter gender, lokasi, dan channel; KPI, enam grafik, dan 10 pelanggan teratas |
-| [Laporan analis](docs/Laporan_Analis_SuryaHub.pdf) | Ringkasan eksekutif, profil pelanggan, loyalitas, channel, top spender, roadmap |
-| [Slide deck](docs/Slide_Deck_SuryaHub.pptx) | Tujuh slide presentasi untuk tim marketing dan manajemen |
+| [Dashboard interaktif](https://mmufaah.github.io/Dasboard_SuryaHub/) | Filter gender, lokasi, dan channel; KPI, enam grafik, dan 10 pelanggan teratas |
+| [Laporan analis](Laporan_Analis_SuryaHub.pdf) | Ringkasan eksekutif, profil pelanggan, loyalitas, channel, top spender, roadmap |
+| [Slide deck](Slide_Deck_SuryaHub.pptx) | Tujuh slide presentasi untuk tim marketing dan manajemen |
 
 ## 🚀 Rekomendasi dan Roadmap
 
