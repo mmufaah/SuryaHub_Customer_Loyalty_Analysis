@@ -74,7 +74,7 @@ Saya menjawab **7 pertanyaan bisnis** dengan SQL di Google BigQuery, membuat das
 
 ## 🧮 Analisis SQL
 
-Klik tiap pertanyaan untuk melihat query dan hasilnya. Semua query ada di [`sql/queries_suryahub.sql`](sql/queries_suryahub.sql).
+Klik tiap pertanyaan untuk melihat query dan hasilnya. Semua query ada di [`sql/queries_suryahub.sql`](queries_suryahub.sql).
 
 <details>
 <summary><b>1. Berapa total transaksi pelanggan perempuan?</b></summary>
