@@ -266,11 +266,9 @@ Target di atas adalah **hipotesis untuk diuji**, bukan hasil dari data historis.
 ├── README.md
 ├── Dashboard_SuryaHub.html
 ├── uji_statistik_suryahub.py
-├── sql/
-│   └── queries_suryahub.sql
-└── docs/
-    ├── Laporan_Analis_SuryaHub.pdf
-    └── Slide_Deck_SuryaHub.pptx
+├── queries_suryahub.sql
+├── Laporan_Analis_SuryaHub.pdf
+└── Slide_Deck_SuryaHub.pptx
 ```
 
 ---
